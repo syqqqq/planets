@@ -1,2 +1,3 @@
 This is Mars.
 
+It has two moons.
